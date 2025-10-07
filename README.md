@@ -3,7 +3,7 @@
 An interactive Power BI report that analyzes Spotify listening behavior:
 Top artists/albums, time trends, device usage, and KPIs (skips & shuffle).
 
-![Overview](images/overview.png)
+![Overview](images/overview.jpg)
 
 ## What’s included
 - **Spotify_Dashboard.pbit** – template without data (recommended for reuse)
