@@ -6,7 +6,7 @@ Top artists/albums, time trends, device usage, and KPIs (skips & shuffle).
 ![Overview](images/overview.jpg)
 
 ## What’s included
-- **Spotify_Dashboard.pbit** – template without data (recommended for reuse)
+- **spotify_dash_source.pbit** – template without data (recommended for reuse)
 - **/images/** – preview images for this README
 
 ## Transformations (Power Query)
@@ -28,3 +28,5 @@ Top artists/albums, time trends, device usage, and KPIs (skips & shuffle).
 - **Listening time by Month** (col/line)
 - **Device breakdown** (donut)
 - Cards: **Most Listened Date**, **Most Listened Album**, **% Skipped**, **% Shuffle**
+
+Spotify is a trademark of Spotify AB; logo used for illustrative purposes.
